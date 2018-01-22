@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YouTube List</string>
+    <string name="video_error_msg">Unable to Play Video!</string>
+
+    <string name="api_key">AIzaSyBDqchtXEavw6v1nRIVwtvmtzfzXXcJUeo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="network_msg">Not connected to internet. Do you want to launch network settings?</string>
+
+    <string-array name="video_list">
+        <item>FlsCjmMhFmw</item>
+        <item>ldwJA_9AIww</item>
+        <item>GY5Olv1_dB4</item>
+        <item>ARA0AxrnHdM</item>
+        <item>vI4LHl4yFuo</item>
+    </string-array>
+</resources>
